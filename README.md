@@ -1,1 +1,0 @@
-# responsive-cv.github.io
